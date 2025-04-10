@@ -5,22 +5,6 @@ I promise I'll fill it in eventually
 (will I soon have free time potentially?)  
 (about me? uh... I exist. probably.)  
 
-## Skills
-### Languages
-![Languages I've used](https://go-skill-icons.vercel.app/api/icons?titles=true&i=py,js,java,cs,cpp,html,css&perline=7 "Languages I've used (HTML and CSS are included in the list, sue me)")
-### Tools
-##### Development Tools
-![Main tools I use](https://go-skill-icons.vercel.app/api/icons?titles=true&i=blender,git,github,googlecolab,huggingface,vscode&perline=7 "Main tools I use")
-##### Python Libraries
-![Python libraries I've used](https://go-skill-icons.vercel.app/api/icons?titles=true&i=discord,fastapi,flask,gradio,groq,gemini,chatgpt,huggingface,langchain,sqlite,selenium,tensorflow,unstructured&perline=7 "Python libraries I've used")
-##### Game Engines
-![Game engines I've used](https://go-skill-icons.vercel.app/api/icons?titles=true&i=gamemakerstudio,unity,unreal&perline=7 "Game engines I've used")
-### Misc Skills
-![Misc Skills](https://go-skill-icons.vercel.app/api/icons?titles=true&i=bash,docker,git,githubactions,md,regex&perline=7 "Miscellaneous other things I'm familiar with")
-
-## Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xarical&layout=compact&size_weight=0.5&count_weight=0.5&theme=github_dark&bg_color=00000000)
-
 ## Pinned Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=WoF-RAG-QA-Bot&theme=github_dark&bg_color=00000000)](https://github.com/xarical/WoF-RAG-QA-Bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Gemini-Tool-Use&theme=github_dark&bg_color=00000000)](https://github.com/xarical/Gemini-Tool-Use)
@@ -28,3 +12,19 @@ I promise I'll fill it in eventually
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Journey&theme=github_dark&bg_color=00000000)](https://github.com/xarical/Journey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=The-Facility&theme=github_dark&bg_color=00000000)](https://github.com/xarical/The-Facility)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=COGdoc&theme=github_dark&bg_color=00000000)](https://github.com/xarical/COGdoc)
+
+## Skills
+### Languages
+![Languages I've used](https://go-skill-icons.vercel.app/api/icons?titles=true&i=py,js,java,cs,cpp,html,css&perline=7 "Languages I've used (HTML and CSS are included in the list, sue me)")
+### Tools
+##### Development Tools
+![Main tools I use](https://go-skill-icons.vercel.app/api/icons?titles=true&i=blender,git,github,googlecolab,huggingface,vscode&perline=7 "Main tools I use")
+##### Game Engines
+![Game engines I've used](https://go-skill-icons.vercel.app/api/icons?titles=true&i=gamemakerstudio,unity,unreal&perline=7 "Game engines I've used")
+##### Python Libraries
+![Python libraries I've used](https://go-skill-icons.vercel.app/api/icons?titles=true&i=discord,fastapi,flask,gradio,groq,gemini,chatgpt,huggingface,langchain,sqlite,selenium,tensorflow,unstructured&perline=7 "Python libraries I've used")
+### Misc Skills
+![Misc Skills](https://go-skill-icons.vercel.app/api/icons?titles=true&i=bash,docker,git,githubactions,md,regex&perline=7 "Miscellaneous other things I'm familiar with")
+
+## Stats
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xarical&layout=compact&size_weight=0.5&count_weight=0.5&theme=github_dark&bg_color=00000000)
