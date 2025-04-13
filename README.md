@@ -7,7 +7,7 @@ I promise I'll fill it in eventually
 
 ## Pinned Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=WoF-RAG-QA-Bot&theme=github_dark&bg_color=00000000)](https://github.com/xarical/WoF-RAG-QA-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Gemini-Tool-Use&theme=github_dark&bg_color=00000000)](https://github.com/xarical/Gemini-Tool-Use)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Gemini-Tooluse-Prototype&theme=github_dark&bg_color=00000000)](https://github.com/xarical/Gemini-Tool-Use)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Flat-Notifs&theme=github_dark&bg_color=00000000)](https://github.com/xarical/Flat-Notifs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Journey&theme=github_dark&bg_color=00000000)](https://github.com/xarical/Journey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=The-Facility&theme=github_dark&bg_color=00000000)](https://github.com/xarical/The-Facility)
