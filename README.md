@@ -18,13 +18,13 @@ I promise I'll fill it in eventually
 ![Languages I've used](https://go-skill-icons.vercel.app/api/icons?titles=true&i=py,js,java,cs,cpp,html,css&perline=7 "Languages I've used (HTML and CSS are included in the list, sue me)")
 ### Tools
 ##### Development Tools
-![Main tools I use](https://go-skill-icons.vercel.app/api/icons?titles=true&i=blender,git,github,googlecolab,huggingface,vscode&perline=7 "Main tools I use")
+![Main tools I use](https://go-skill-icons.vercel.app/api/icons?titles=true&i=github,googlecolab,huggingface,replit,vercel,vscode&perline=7 "Main tools I use")
 ##### Game Engines
 ![Game engines I've used](https://go-skill-icons.vercel.app/api/icons?titles=true&i=gamemakerstudio,unity,unreal&perline=7 "Game engines I've used")
 ##### Python Libraries
 ![Python libraries I've used](https://go-skill-icons.vercel.app/api/icons?titles=true&i=discord,fastapi,flask,gradio,groq,gemini,chatgpt,huggingface,langchain,sqlite,selenium,tensorflow,unstructured&perline=7 "Python libraries I've used")
 ### Misc Skills
-![Misc Skills](https://go-skill-icons.vercel.app/api/icons?titles=true&i=bash,docker,git,githubactions,md,regex&perline=7 "Miscellaneous other things I'm familiar with")
+![Misc Skills](https://go-skill-icons.vercel.app/api/icons?titles=true&i=bash,blender,canva,docker,git,githubactions,md,nginx,regex&perline=7 "Miscellaneous other things I'm familiar with")
 
 ## Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xarical&layout=compact&size_weight=0.5&count_weight=0.5&theme=github_dark&bg_color=00000000)
