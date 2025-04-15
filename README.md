@@ -6,12 +6,12 @@ I promise I'll fill it in eventually
 (about me? uh... I exist. probably.)  
 
 ## Pinned Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=WoF-RAG-QA-Bot&theme=github_dark&bg_color=00000000)](https://github.com/xarical/WoF-RAG-QA-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Gemini-Tooluse-Prototype&theme=github_dark&bg_color=00000000)](https://github.com/xarical/Gemini-Tool-Use)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Flat-Notifs&theme=github_dark&bg_color=00000000)](https://github.com/xarical/Flat-Notifs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Journey&theme=github_dark&bg_color=00000000)](https://github.com/xarical/Journey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=The-Facility&theme=github_dark&bg_color=00000000)](https://github.com/xarical/The-Facility)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=COGdoc&theme=github_dark&bg_color=00000000)](https://github.com/xarical/COGdoc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=WoF-RAG-QA-Bot&theme=github_dark&border_color=777777&bg_color=00000000)](https://github.com/xarical/WoF-RAG-QA-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Gemini-Tooluse-Prototype&theme=github_dark&border_color=777777&bg_color=00000000)](https://github.com/xarical/Gemini-Tooluse-Prototype)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Flat-Notifs&theme=github_dark&border_color=777777&bg_color=00000000)](https://github.com/xarical/Flat-Notifs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=Journey&theme=github_dark&border_color=777777&bg_color=00000000)](https://github.com/xarical/Journey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=The-Facility&theme=github_dark&border_color=777777&bg_color=00000000)](https://github.com/xarical/The-Facility)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=COGdoc&theme=github_dark&border_color=777777&bg_color=00000000)](https://github.com/xarical/COGdoc)
 
 ## Skills
 ### Languages
@@ -27,4 +27,9 @@ I promise I'll fill it in eventually
 ![Misc Skills](https://go-skill-icons.vercel.app/api/icons?titles=true&i=bash,blender,canva,docker,git,githubactions,md,nginx,regex&perline=7 "Miscellaneous other things I'm familiar with")
 
 ## Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xarical&layout=compact&size_weight=0.5&count_weight=0.5&theme=github_dark&bg_color=00000000)
+<img align="top" height=160 src="https://github-readme-stats-z3ta.vercel.app
+/api?username=xarical&hide=stars,prs&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&hide_rank=true" title="GitHub Stats" alt="GitHub Stats"/>
+<img align="center" height=180 src="https://github-readme-stats-z3ta.vercel.app
+/api/top-langs/?username=xarical&exclude_repo=github-readme-stats&layout=compact&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&bg_color=00000000" title="Most Used Languages" alt="Most Used Languages"/>
+
+<img src='https://img.shields.io/badge/dynamic/xml?url=https://profile-counter.glitch.me/xisadev/count.svg&query=//*[local-name()="tspan"]&prefix=[&suffix=]&style=flat&label=int[]+num_visitors_digits+=&labelColor=333&color=333' title="Num visitors" alt="Num visitors"/>
