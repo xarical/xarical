@@ -1,9 +1,5 @@
 ## Bio
-this is where the bio goes  
-what I will put here, no one knows  
-I promise I'll fill it in eventually  
-(will I soon have free time potentially?)  
-(about me? uh... I exist. probably.)  
+Proficient in multiple programming languages, tools, and technologies. Experience in software development, game development, graphic design, and video editing. Demonstrated leadership and teamwork ability.
 
 ## Pinned Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xarical&repo=WoF-RAG-QA-Bot&theme=github_dark&border_color=777777&bg_color=00000000)](https://github.com/xarical/WoF-RAG-QA-Bot)
@@ -15,7 +11,7 @@ I promise I'll fill it in eventually
 
 ## Skills
 ### Languages
-![Languages I've used](https://go-skill-icons.vercel.app/api/icons?titles=true&i=py,js,java,cs,cpp,html,css&perline=7 "Languages I've used (HTML and CSS are included in the list, sue me)")
+![Languages I've used](https://go-skill-icons.vercel.app/api/icons?titles=true&i=py,js,java,cs,cpp,asm,html,css&perline=7 "Languages I've used (HTML and CSS are included in the list, sue me)")
 ### Tools
 ##### Development Tools
 ![Main tools I use](https://go-skill-icons.vercel.app/api/icons?titles=true&i=github,googlecolab,huggingface,replit,vercel,vscode&perline=7 "Main tools I use")
